@@ -1,0 +1,742 @@
+[
+  {
+    "numero": 1,
+    "palavra": "Resiliência",
+    "arquivo": "assets/fotos/foto-01.webp",
+    "legenda": "Uma lembrança que faz parte da nossa história.",
+    "original": "IMG_2556.jpeg",
+    "lote": 1
+  },
+  {
+    "numero": 2,
+    "palavra": "Criatividade",
+    "arquivo": "assets/fotos/foto-02.webp",
+    "legenda": "Educadores que deixam marcas além da sala de aula.",
+    "original": "IMG_2554.jpeg",
+    "lote": 1
+  },
+  {
+    "numero": 3,
+    "palavra": "Alegria",
+    "arquivo": "assets/fotos/foto-03.webp",
+    "legenda": "Um encontro cheio de significado.",
+    "original": "IMG_2555.jpeg",
+    "lote": 1
+  },
+  {
+    "numero": 4,
+    "palavra": "Determinação",
+    "arquivo": "assets/fotos/foto-04.webp",
+    "legenda": "O cotidiano também guarda momentos especiais.",
+    "original": "IMG_2558.jpeg",
+    "lote": 1
+  },
+  {
+    "numero": 5,
+    "palavra": "Inspiração",
+    "arquivo": "assets/fotos/foto-05.webp",
+    "legenda": "Cada gesto constrói novos caminhos.",
+    "original": "IMG_2700.jpeg",
+    "lote": 1
+  },
+  {
+    "numero": 6,
+    "palavra": "União",
+    "arquivo": "assets/fotos/foto-06.webp",
+    "legenda": "As melhores histórias são feitas em conjunto.",
+    "original": "IMG_2456.jpeg",
+    "lote": 1
+  },
+  {
+    "numero": 7,
+    "palavra": "Conhecimento",
+    "arquivo": "assets/fotos/foto-07.webp",
+    "legenda": "A escola é feita de pessoas e sonhos.",
+    "original": "IMG_2704.jpeg",
+    "lote": 1
+  },
+  {
+    "numero": 8,
+    "palavra": "Companheirismo",
+    "arquivo": "assets/fotos/foto-08.webp",
+    "legenda": "Uma fotografia, muitas histórias para contar.",
+    "original": "IMG_2452.jpeg",
+    "lote": 1
+  },
+  {
+    "numero": 9,
+    "palavra": "Voz",
+    "arquivo": "assets/fotos/foto-09.webp",
+    "legenda": "Aqui também se aprende a compartilhar.",
+    "original": "IMG_2702.jpeg",
+    "lote": 1
+  },
+  {
+    "numero": 10,
+    "palavra": "Expressão",
+    "arquivo": "assets/fotos/foto-10.webp",
+    "legenda": "Ensinar é estar presente nas pequenas conquistas.",
+    "original": "IMG_2693.jpeg",
+    "lote": 1
+  },
+  {
+    "numero": 11,
+    "palavra": "Sensibilidade",
+    "arquivo": "assets/fotos/foto-11.webp",
+    "legenda": "Uma lembrança que faz parte da nossa história.",
+    "original": "IMG_2696.jpeg",
+    "lote": 2
+  },
+  {
+    "numero": 12,
+    "palavra": "Amizade",
+    "arquivo": "assets/fotos/foto-12.webp",
+    "legenda": "Educadores que deixam marcas além da sala de aula.",
+    "original": "IMG_2455.jpeg",
+    "lote": 2
+  },
+  {
+    "numero": 13,
+    "palavra": "Imaginação",
+    "arquivo": "assets/fotos/foto-13.webp",
+    "legenda": "Um encontro cheio de significado.",
+    "original": "IMG_2691.jpeg",
+    "lote": 2
+  },
+  {
+    "numero": 14,
+    "palavra": "Sabedoria",
+    "arquivo": "assets/fotos/foto-14.webp",
+    "legenda": "O cotidiano também guarda momentos especiais.",
+    "original": "IMG_2552.jpeg",
+    "lote": 2
+  },
+  {
+    "numero": 15,
+    "palavra": "Colaboração",
+    "arquivo": "assets/fotos/foto-15.webp",
+    "legenda": "Cada gesto constrói novos caminhos.",
+    "original": "IMG_2689.jpeg",
+    "lote": 2
+  },
+  {
+    "numero": 16,
+    "palavra": "Empatia",
+    "arquivo": "assets/fotos/foto-16.webp",
+    "legenda": "As melhores histórias são feitas em conjunto.",
+    "original": "IMG_2688.jpeg",
+    "lote": 2
+  },
+  {
+    "numero": 17,
+    "palavra": "Coragem",
+    "arquivo": "assets/fotos/foto-17.webp",
+    "legenda": "A escola é feita de pessoas e sonhos.",
+    "original": "IMG_2692.jpeg",
+    "lote": 2
+  },
+  {
+    "numero": 18,
+    "palavra": "Acolhimento",
+    "arquivo": "assets/fotos/foto-18.webp",
+    "legenda": "Uma fotografia, muitas histórias para contar.",
+    "original": "IMG_2690.jpeg",
+    "lote": 2
+  },
+  {
+    "numero": 19,
+    "palavra": "Afeto",
+    "arquivo": "assets/fotos/foto-19.webp",
+    "legenda": "Aqui também se aprende a compartilhar.",
+    "original": "IMG_2685.jpeg",
+    "lote": 2
+  },
+  {
+    "numero": 20,
+    "palavra": "Presença",
+    "arquivo": "assets/fotos/foto-20.webp",
+    "legenda": "Ensinar é estar presente nas pequenas conquistas.",
+    "original": "IMG_2684.jpeg",
+    "lote": 2
+  },
+  {
+    "numero": 21,
+    "palavra": "Solidariedade",
+    "arquivo": "assets/fotos/foto-21.webp",
+    "legenda": "Uma lembrança que faz parte da nossa história.",
+    "original": "IMG_2681.jpeg",
+    "lote": 3
+  },
+  {
+    "numero": 22,
+    "palavra": "Energia",
+    "arquivo": "assets/fotos/foto-22.webp",
+    "legenda": "Educadores que deixam marcas além da sala de aula.",
+    "original": "IMG_2680.jpeg",
+    "lote": 3
+  },
+  {
+    "numero": 23,
+    "palavra": "Compromisso",
+    "arquivo": "assets/fotos/foto-23.webp",
+    "legenda": "Um encontro cheio de significado.",
+    "original": "IMG_2678.jpeg",
+    "lote": 3
+  },
+  {
+    "numero": 24,
+    "palavra": "Dedicação",
+    "arquivo": "assets/fotos/foto-24.webp",
+    "legenda": "O cotidiano também guarda momentos especiais.",
+    "original": "IMG_2695.jpeg",
+    "lote": 3
+  },
+  {
+    "numero": 25,
+    "palavra": "Superação",
+    "arquivo": "assets/fotos/foto-25.webp",
+    "legenda": "Cada gesto constrói novos caminhos.",
+    "original": "IMG_2631.jpeg",
+    "lote": 3
+  },
+  {
+    "numero": 26,
+    "palavra": "Entrega",
+    "arquivo": "assets/fotos/foto-26.webp",
+    "legenda": "As melhores histórias são feitas em conjunto.",
+    "original": "IMG_2686.jpeg",
+    "lote": 3
+  },
+  {
+    "numero": 27,
+    "palavra": "Entusiasmo",
+    "arquivo": "assets/fotos/foto-27.webp",
+    "legenda": "A escola é feita de pessoas e sonhos.",
+    "original": "IMG_2629.jpeg",
+    "lote": 3
+  },
+  {
+    "numero": 28,
+    "palavra": "Cooperação",
+    "arquivo": "assets/fotos/foto-28.webp",
+    "legenda": "Uma fotografia, muitas histórias para contar.",
+    "original": "IMG_2628.jpeg",
+    "lote": 3
+  },
+  {
+    "numero": 29,
+    "palavra": "Protagonismo",
+    "arquivo": "assets/fotos/foto-29.webp",
+    "legenda": "Aqui também se aprende a compartilhar.",
+    "original": "IMG_2627.jpeg",
+    "lote": 3
+  },
+  {
+    "numero": 30,
+    "palavra": "Gratidão",
+    "arquivo": "assets/fotos/foto-30.webp",
+    "legenda": "Ensinar é estar presente nas pequenas conquistas.",
+    "original": "3eab4d9d-5ae5-49db-8470-488f84f49bb2.jpeg",
+    "lote": 3
+  },
+  {
+    "numero": 31,
+    "palavra": "Celebração",
+    "arquivo": "assets/fotos/foto-31.webp",
+    "legenda": "Uma lembrança que faz parte da nossa história.",
+    "original": "954cdbbb-e9aa-4dcc-bbcf-6a7273e59dfa.jpeg",
+    "lote": 4
+  },
+  {
+    "numero": 32,
+    "palavra": "Conexão",
+    "arquivo": "assets/fotos/foto-32.webp",
+    "legenda": "Educadores que deixam marcas além da sala de aula.",
+    "original": "9824362e-e848-4524-b1ec-edc962b0165f.jpeg",
+    "lote": 4
+  },
+  {
+    "numero": 33,
+    "palavra": "Parceria",
+    "arquivo": "assets/fotos/foto-33.webp",
+    "legenda": "Um encontro cheio de significado.",
+    "original": "80810b02-db99-446e-a9ee-37d5c668d1d4.jpeg",
+    "lote": 4
+  },
+  {
+    "numero": 34,
+    "palavra": "Diversidade",
+    "arquivo": "assets/fotos/foto-34.webp",
+    "legenda": "O cotidiano também guarda momentos especiais.",
+    "original": "b89aee8d-6f34-434d-a586-afe2bb4b32f9.jpeg",
+    "lote": 4
+  },
+  {
+    "numero": 35,
+    "palavra": "Pertencimento",
+    "arquivo": "assets/fotos/foto-35.webp",
+    "legenda": "Cada gesto constrói novos caminhos.",
+    "original": "9039656f-3df9-4143-8434-a556014b9d9b.jpeg",
+    "lote": 4
+  },
+  {
+    "numero": 36,
+    "palavra": "Conquista",
+    "arquivo": "assets/fotos/foto-36.webp",
+    "legenda": "As melhores histórias são feitas em conjunto.",
+    "original": "25c59d60-499d-462a-9993-73f92ca9b800.jpeg",
+    "lote": 4
+  },
+  {
+    "numero": 37,
+    "palavra": "Confiança",
+    "arquivo": "assets/fotos/foto-37.webp",
+    "legenda": "A escola é feita de pessoas e sonhos.",
+    "original": "85bc74e7-b693-4372-9724-15c9c7fdc3a6.jpeg",
+    "lote": 4
+  },
+  {
+    "numero": 38,
+    "palavra": "Cuidado",
+    "arquivo": "assets/fotos/foto-38.webp",
+    "legenda": "Uma fotografia, muitas histórias para contar.",
+    "original": "IMG_2610.jpeg",
+    "lote": 4
+  },
+  {
+    "numero": 39,
+    "palavra": "Convivência",
+    "arquivo": "assets/fotos/foto-39.webp",
+    "legenda": "Aqui também se aprende a compartilhar.",
+    "original": "IMG_2609.jpeg",
+    "lote": 4
+  },
+  {
+    "numero": 40,
+    "palavra": "Memória",
+    "arquivo": "assets/fotos/foto-40.webp",
+    "legenda": "Ensinar é estar presente nas pequenas conquistas.",
+    "original": "IMG_2608.jpeg",
+    "lote": 4
+  },
+  {
+    "numero": 41,
+    "palavra": "Sintonia",
+    "arquivo": "assets/fotos/foto-41.webp",
+    "legenda": "Uma lembrança que faz parte da nossa história.",
+    "original": "IMG_2607.jpeg",
+    "lote": 5
+  },
+  {
+    "numero": 42,
+    "palavra": "Partilha",
+    "arquivo": "assets/fotos/foto-42.webp",
+    "legenda": "Educadores que deixam marcas além da sala de aula.",
+    "original": "IMG_2606.jpeg",
+    "lote": 5
+  },
+  {
+    "numero": 43,
+    "palavra": "Encontro",
+    "arquivo": "assets/fotos/foto-43.webp",
+    "legenda": "Um encontro cheio de significado.",
+    "original": "IMG_2605.jpeg",
+    "lote": 5
+  },
+  {
+    "numero": 44,
+    "palavra": "Carinho",
+    "arquivo": "assets/fotos/foto-44.webp",
+    "legenda": "O cotidiano também guarda momentos especiais.",
+    "original": "IMG_2604.jpeg",
+    "lote": 5
+  },
+  {
+    "numero": 45,
+    "palavra": "Orgulho",
+    "arquivo": "assets/fotos/foto-45.webp",
+    "legenda": "Cada gesto constrói novos caminhos.",
+    "original": "IMG_2603.jpeg",
+    "lote": 5
+  },
+  {
+    "numero": 46,
+    "palavra": "Celebração",
+    "arquivo": "assets/fotos/foto-46.webp",
+    "legenda": "As melhores histórias são feitas em conjunto.",
+    "original": "IMG_2602.jpeg",
+    "lote": 5
+  },
+  {
+    "numero": 47,
+    "palavra": "Amizade",
+    "arquivo": "assets/fotos/foto-47.webp",
+    "legenda": "A escola é feita de pessoas e sonhos.",
+    "original": "IMG_2601.jpeg",
+    "lote": 5
+  },
+  {
+    "numero": 48,
+    "palavra": "Reconhecimento",
+    "arquivo": "assets/fotos/foto-48.webp",
+    "legenda": "Uma fotografia, muitas histórias para contar.",
+    "original": "IMG_2600.jpeg",
+    "lote": 5
+  },
+  {
+    "numero": 49,
+    "palavra": "Alegria",
+    "arquivo": "assets/fotos/foto-49.webp",
+    "legenda": "Aqui também se aprende a compartilhar.",
+    "original": "IMG_2599.jpeg",
+    "lote": 5
+  },
+  {
+    "numero": 50,
+    "palavra": "Respeito",
+    "arquivo": "assets/fotos/foto-50.webp",
+    "legenda": "Ensinar é estar presente nas pequenas conquistas.",
+    "original": "IMG_2598.jpeg",
+    "lote": 5
+  },
+  {
+    "numero": 51,
+    "palavra": "Ternura",
+    "arquivo": "assets/fotos/foto-51.webp",
+    "legenda": "Uma lembrança que faz parte da nossa história.",
+    "original": "IMG_2597.jpeg",
+    "lote": 6
+  },
+  {
+    "numero": 52,
+    "palavra": "Paciência",
+    "arquivo": "assets/fotos/foto-52.webp",
+    "legenda": "Educadores que deixam marcas além da sala de aula.",
+    "original": "IMG_2595.jpeg",
+    "lote": 6
+  },
+  {
+    "numero": 53,
+    "palavra": "Generosidade",
+    "arquivo": "assets/fotos/foto-53.webp",
+    "legenda": "Um encontro cheio de significado.",
+    "original": "IMG_2594.jpeg",
+    "lote": 6
+  },
+  {
+    "numero": 54,
+    "palavra": "Zelo",
+    "arquivo": "assets/fotos/foto-54.webp",
+    "legenda": "O cotidiano também guarda momentos especiais.",
+    "original": "IMG_2593.jpeg",
+    "lote": 6
+  },
+  {
+    "numero": 55,
+    "palavra": "Atenção",
+    "arquivo": "assets/fotos/foto-55.webp",
+    "legenda": "Cada gesto constrói novos caminhos.",
+    "original": "IMG_2592.jpeg",
+    "lote": 6
+  },
+  {
+    "numero": 56,
+    "palavra": "Escuta",
+    "arquivo": "assets/fotos/foto-56.webp",
+    "legenda": "As melhores histórias são feitas em conjunto.",
+    "original": "IMG_2589.jpeg",
+    "lote": 6
+  },
+  {
+    "numero": 57,
+    "palavra": "Proteção",
+    "arquivo": "assets/fotos/foto-57.webp",
+    "legenda": "A escola é feita de pessoas e sonhos.",
+    "original": "IMG_2588.jpeg",
+    "lote": 6
+  },
+  {
+    "numero": 58,
+    "palavra": "Esperança",
+    "arquivo": "assets/fotos/foto-58.webp",
+    "legenda": "Uma fotografia, muitas histórias para contar.",
+    "original": "IMG_2587.jpeg",
+    "lote": 6
+  },
+  {
+    "numero": 59,
+    "palavra": "Sabedoria",
+    "arquivo": "assets/fotos/foto-59.webp",
+    "legenda": "Aqui também se aprende a compartilhar.",
+    "original": "IMG_2584.jpeg",
+    "lote": 6
+  },
+  {
+    "numero": 60,
+    "palavra": "Inovação",
+    "arquivo": "assets/fotos/foto-60.webp",
+    "legenda": "Ensinar é estar presente nas pequenas conquistas.",
+    "original": "IMG_2581.jpeg",
+    "lote": 6
+  },
+  {
+    "numero": 61,
+    "palavra": "Compreensão",
+    "arquivo": "assets/fotos/foto-61.webp",
+    "legenda": "Uma lembrança que faz parte da nossa história.",
+    "original": "IMG_2580.jpeg",
+    "lote": 7
+  },
+  {
+    "numero": 62,
+    "palavra": "Diálogo",
+    "arquivo": "assets/fotos/foto-62.webp",
+    "legenda": "Educadores que deixam marcas além da sala de aula.",
+    "original": "IMG_2579.jpeg",
+    "lote": 7
+  },
+  {
+    "numero": 63,
+    "palavra": "Liderança",
+    "arquivo": "assets/fotos/foto-63.webp",
+    "legenda": "Um encontro cheio de significado.",
+    "original": "IMG_2578.jpeg",
+    "lote": 7
+  },
+  {
+    "numero": 64,
+    "palavra": "Descoberta",
+    "arquivo": "assets/fotos/foto-64.webp",
+    "legenda": "O cotidiano também guarda momentos especiais.",
+    "original": "IMG_2577.jpeg",
+    "lote": 7
+  },
+  {
+    "numero": 65,
+    "palavra": "Curiosidade",
+    "arquivo": "assets/fotos/foto-65.webp",
+    "legenda": "Cada gesto constrói novos caminhos.",
+    "original": "IMG_2576.jpeg",
+    "lote": 7
+  },
+  {
+    "numero": 66,
+    "palavra": "Futuro",
+    "arquivo": "assets/fotos/foto-66.webp",
+    "legenda": "As melhores histórias são feitas em conjunto.",
+    "original": "IMG_2574.jpeg",
+    "lote": 7
+  },
+  {
+    "numero": 67,
+    "palavra": "Participação",
+    "arquivo": "assets/fotos/foto-67.webp",
+    "legenda": "A escola é feita de pessoas e sonhos.",
+    "original": "IMG_2569.jpeg",
+    "lote": 7
+  },
+  {
+    "numero": 68,
+    "palavra": "Aprendizagem",
+    "arquivo": "assets/fotos/foto-68.webp",
+    "legenda": "Uma fotografia, muitas histórias para contar.",
+    "original": "IMG_2564.jpeg",
+    "lote": 7
+  },
+  {
+    "numero": 69,
+    "palavra": "Vocação",
+    "arquivo": "assets/fotos/foto-69.webp",
+    "legenda": "Aqui também se aprende a compartilhar.",
+    "original": "IMG_2563.jpeg",
+    "lote": 7
+  },
+  {
+    "numero": 70,
+    "palavra": "Transformação",
+    "arquivo": "assets/fotos/foto-70.webp",
+    "legenda": "Ensinar é estar presente nas pequenas conquistas.",
+    "original": "IMG_2562.jpeg",
+    "lote": 7
+  },
+  {
+    "numero": 71,
+    "palavra": "Perseverança",
+    "arquivo": "assets/fotos/foto-71.webp",
+    "legenda": "Ensinar também é acompanhar cada descoberta.",
+    "original": "lote-adicional/IMG_2584.jpeg",
+    "lote": 8,
+    "reenviada": true
+  },
+  {
+    "numero": 72,
+    "palavra": "Compromisso",
+    "arquivo": "assets/fotos/foto-72.webp",
+    "legenda": "A educação cresce com quem se dedica a ela.",
+    "original": "lote-adicional/IMG_2581.jpeg",
+    "lote": 8,
+    "reenviada": true
+  },
+  {
+    "numero": 73,
+    "palavra": "Cuidado",
+    "arquivo": "assets/fotos/foto-73.webp",
+    "legenda": "Há atenção e carinho em cada detalhe.",
+    "original": "lote-adicional/IMG_2580.jpeg",
+    "lote": 8,
+    "reenviada": true
+  },
+  {
+    "numero": 74,
+    "palavra": "Acolhimento",
+    "arquivo": "assets/fotos/foto-74.webp",
+    "legenda": "Uma escola se constrói com escuta e empatia.",
+    "original": "lote-adicional/IMG_2579.jpeg",
+    "lote": 8,
+    "reenviada": true
+  },
+  {
+    "numero": 75,
+    "palavra": "Liderança",
+    "arquivo": "assets/fotos/foto-75.webp",
+    "legenda": "Cada oportunidade de aprender transforma caminhos.",
+    "original": "lote-adicional/IMG_2578.jpeg",
+    "lote": 8,
+    "reenviada": true
+  },
+  {
+    "numero": 76,
+    "palavra": "Criatividade",
+    "arquivo": "assets/fotos/foto-76.webp",
+    "legenda": "A imaginação faz da aprendizagem uma aventura.",
+    "original": "lote-adicional/IMG_2577.jpeg",
+    "lote": 8,
+    "reenviada": true
+  },
+  {
+    "numero": 77,
+    "palavra": "Comunicação",
+    "arquivo": "assets/fotos/foto-77.webp",
+    "legenda": "Palavras aproximam pessoas e ideias.",
+    "original": "lote-adicional/IMG_2576.jpeg",
+    "lote": 8,
+    "reenviada": true
+  },
+  {
+    "numero": 78,
+    "palavra": "Colaboração",
+    "arquivo": "assets/fotos/foto-78.webp",
+    "legenda": "Juntos, fazemos a diferença todos os dias.",
+    "original": "lote-adicional/IMG_2574.jpeg",
+    "lote": 8,
+    "reenviada": true
+  },
+  {
+    "numero": 79,
+    "palavra": "Generosidade",
+    "arquivo": "assets/fotos/foto-79.webp",
+    "legenda": "Aprender é compartilhar o que temos de melhor.",
+    "original": "lote-adicional/IMG_2569.jpeg",
+    "lote": 8,
+    "reenviada": true
+  },
+  {
+    "numero": 80,
+    "palavra": "Conhecimento",
+    "arquivo": "assets/fotos/foto-80.webp",
+    "legenda": "O conhecimento alcança novos horizontes.",
+    "original": "lote-adicional/IMG_2564.jpeg",
+    "lote": 8,
+    "reenviada": true
+  },
+  {
+    "numero": 81,
+    "palavra": "Alegria",
+    "arquivo": "assets/fotos/foto-81.webp",
+    "legenda": "A leveza torna cada momento especial.",
+    "original": "lote-adicional/IMG_2559.jpeg",
+    "lote": 9,
+    "reenviada": false
+  },
+  {
+    "numero": 82,
+    "palavra": "Conexão",
+    "arquivo": "assets/fotos/foto-82.webp",
+    "legenda": "Encontros que fortalecem nossa comunidade.",
+    "original": "lote-adicional/IMG_2560.jpeg",
+    "lote": 9,
+    "reenviada": false
+  },
+  {
+    "numero": 83,
+    "palavra": "Espírito de equipe",
+    "arquivo": "assets/fotos/foto-83.webp",
+    "legenda": "O trabalho em equipe abre possibilidades.",
+    "original": "lote-adicional/IMG_2561.jpeg",
+    "lote": 9,
+    "reenviada": false
+  },
+  {
+    "numero": 84,
+    "palavra": "Parceria",
+    "arquivo": "assets/fotos/foto-84.webp",
+    "legenda": "A parceria torna os desafios mais leves.",
+    "original": "lote-adicional/IMG_2562.jpeg",
+    "lote": 9,
+    "reenviada": true
+  },
+  {
+    "numero": 85,
+    "palavra": "Energia",
+    "arquivo": "assets/fotos/foto-85.webp",
+    "legenda": "Entusiasmo que inspira quem está por perto.",
+    "original": "lote-adicional/IMG_2563.jpeg",
+    "lote": 9,
+    "reenviada": true
+  },
+  {
+    "numero": 86,
+    "palavra": "Cooperação",
+    "arquivo": "assets/fotos/foto-86.webp",
+    "legenda": "Somar talentos também é ensinar.",
+    "original": "lote-adicional/IMG_2705.jpeg",
+    "lote": 9,
+    "reenviada": false
+  },
+  {
+    "numero": 87,
+    "palavra": "Presença",
+    "arquivo": "assets/fotos/foto-87.webp",
+    "legenda": "Momentos que merecem ficar na memória.",
+    "original": "lote-adicional/IMG_2630.jpeg",
+    "lote": 9,
+    "reenviada": false
+  },
+  {
+    "numero": 88,
+    "palavra": "Dedicação",
+    "arquivo": "assets/fotos/foto-88.webp",
+    "legenda": "Obrigado por tudo o que vocês constroem.",
+    "original": "lote-adicional/IMG_2676.jpeg",
+    "lote": 10,
+    "reenviada": false
+  },
+  {
+    "numero": 89,
+    "palavra": "Inspiração",
+    "arquivo": "assets/fotos/foto-89.webp",
+    "legenda": "A inspiração aparece nos gestos cotidianos.",
+    "original": "lote-adicional/IMG_2697.jpeg",
+    "lote": 10,
+    "reenviada": false
+  },
+  {
+    "numero": 90,
+    "palavra": "Visão de futuro",
+    "arquivo": "assets/fotos/foto-90.webp",
+    "legenda": "O futuro começa com a coragem de educar.",
+    "original": "lote-adicional/IMG_2687.jpeg",
+    "lote": 10,
+    "reenviada": false
+  }
+]
