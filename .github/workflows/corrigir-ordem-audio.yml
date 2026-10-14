@@ -18,6 +18,11 @@ jobs:
         with:
           persist-credentials: true
 
+      - name: Instalar conversor de audio
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+
       - name: Inverter ordem das mensagens (IMG_3063 antes de IMG_3067)
         shell: bash
         run: |
