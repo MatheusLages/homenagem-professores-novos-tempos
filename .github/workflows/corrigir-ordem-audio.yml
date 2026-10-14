@@ -1,0 +1,44 @@
+name: Corrigir ordem da narracao
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/corrigir-ordem-audio.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  corrigir:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Obter arquivos do site
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Inverter ordem das mensagens (IMG_3063 antes de IMG_3067)
+        shell: bash
+        run: |
+          set -euo pipefail
+          ORIGEM="assets/audio/mensagem-professores-completa.mp3"
+          SAIDA="assets/audio/mensagem-professores-ordem-corrigida.mp3"
+          test -s "$ORIGEM"
+          ffmpeg -hide_banner -loglevel error -y -i "$ORIGEM" \
+            -filter_complex '[0:a]atrim=start=77.296327,asetpts=PTS-STARTPTS[segundo];[0:a]atrim=end=77.296327,asetpts=PTS-STARTPTS[primeiro];[segundo][primeiro]concat=n=2:v=0:a=1[saida]' \
+            -map '[saida]' -c:a libmp3lame -b:a 144k "$SAIDA"
+          mv "$SAIDA" "$ORIGEM"
+          ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1 "$ORIGEM"
+
+      - name: Salvar gravacao corrigida no repositorio
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/audio/mensagem-professores-completa.mp3
+          if ! git diff --cached --quiet; then
+            git commit -m "Corrigir ordem dos audios: segundo video primeiro"
+            git push origin HEAD:main
+          fi
