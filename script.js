@@ -100,7 +100,7 @@ function criarGaleria() {
     numeracao.className = "timeline-number";
     numeracao.textContent = "MEMÓRIA " + String(foto.numero).padStart(2,"0") + " / " + fotosDaTimeline.length;
     const estrela = document.createElement("span");
-    estrela.textContent = "✳";
+    estrela.textContent = "✦";
     estrela.setAttribute("aria-hidden", "true");
     topo.append(numeracao, estrela);
     const botao = document.createElement("button");
@@ -187,7 +187,7 @@ function criarRecados() {
     const numero = document.createElement("span");
     numero.textContent = "RECADO " + recado.numero;
     const estrela = document.createElement("span");
-    estrela.textContent = "✳";
+    estrela.textContent = "✦";
     estrela.setAttribute("aria-hidden", "true");
     topo.append(numero, estrela);
     const titulo = document.createElement("h3");
