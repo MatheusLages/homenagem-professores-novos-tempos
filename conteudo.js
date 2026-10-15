@@ -9,7 +9,7 @@
 */
 
 const conteudo = {
-  // Mensagem unificada (3063 + 3067) em assets/audio/mensagem-professores-completa.mp3
+  // Nova locução extraída do vídeo enviado, em assets/audio/mensagem-professores-completa.mp3
   // A logo oficial está inserida no HTML em assets/logo/novos-tempos-oficial.png
   logo: "",
 
